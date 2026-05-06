@@ -14,8 +14,9 @@ dev = {
 
 ## 🧠 Sobre mim
 
-Comecei minha jornada no mundo da tecnologia como **técnico de manutenção de computadores** — desmontando, diagnosticando e consertando máquinas antes de começar a construir coisas dentro delas. Hoje sou desenvolvedor **full stack**, transitando entre front e back com conforto.
+Comecei minha jornada no mundo da tecnologia como **técnico de manutenção de computadores** — desmontando, diagnosticando e consertando máquinas antes mesmo de começar a construir soluções dentro delas.
 
+Hoje, atuo como desenvolvedor **full stack**, transitando com segurança entre o front-end e o back-end. Atualmente, trabalho com **e-commerce** na Lojas Becker, utilizando plataformas como **VTEX** e **Protheus (TOTVS)** para desenvolver soluções criativas e eficientes.
 Gosto de resolver problemas reais com código limpo e soluções que fazem sentido.
 
 ---
