@@ -1,4 +1,4 @@
-# Oi, eu sou o Vinicius! 👋
+# Olá, eu sou o Vinicius! 👋
 
 ```python
 dev = {
