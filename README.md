@@ -49,6 +49,12 @@ Gosto de resolver problemas reais com código limpo e soluções que fazem senti
 ### 🕐 Calculadora de Horas CLT
 > Ferramenta em Python para controle de jornada de trabalho, cálculo de horas extras e horário máximo de saída respeitando a CLT (art. 59 — limite de 2h extras/dia).
 
+###📅 Agenda de Compromissos
+
+> Sistema para gerenciamento de tarefas e compromissos com foco em produtividade e organização.
+Permite criar, editar e excluir eventos, além de visualizar compromissos por data e horário.
+Estruturado para fácil expansão, podendo incluir autenticação de usuários, notificações e integração com APIs externas.
+
 ---
 
 ## 📊 GitHub Stats
