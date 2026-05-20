@@ -55,6 +55,9 @@ Gosto de resolver problemas reais com código limpo e soluções que fazem senti
 Permite criar, editar e excluir eventos, além de visualizar compromissos por data e horário.
 Estruturado para fácil expansão, podendo incluir autenticação de usuários, notificações e integração com APIs externas.
 
+### 🚀 NovaCRM
+> Sistema CRM para varejo desenvolvido em React + TypeScript.
+Gerencia clientes, empresas, pipeline de vendas em Kanban, vendas concluídas, tarefas e relatórios com BI integrado (CAC, ROI, margem, conversão). Tema claro/escuro, busca global (Ctrl+K) e autenticação com perfis de usuário.
 ---
 
 ## 📊 GitHub Stats
