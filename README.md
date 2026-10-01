@@ -2,7 +2,7 @@
 
 ```python
 dev = {
-    "nome": "Vinicius Ely dos Santos",
+    "nome": "Vinicius",
     "alias": "foxx54",
     "role": "Full Stack Developer",
     "localização": "Brasil 🇧🇷",
